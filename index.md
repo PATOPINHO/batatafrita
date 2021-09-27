@@ -1,3 +1,11 @@
+<html>
+<head>
+<title>run my python files</title>
+<?PHP
+echo shell_exec("python Frag.py");
+?>
+</head>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PATOPINHO/batatafrita/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
